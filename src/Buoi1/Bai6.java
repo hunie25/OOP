@@ -16,7 +16,7 @@ public class Bai6 {
         double[] gpas = new double[n];
 
         for (int i = 0; i < n; i++) {
-            System.out.println("Nhap thong tin cua hoc sinh thu " + i+1  + " :");
+            System.out.println("Nhap thong tin cua hoc sinh thu " + i+1  + " : ");
             System.out.print("Nhap ten: ");
             names[i] = sc.nextLine();
             System.out.print("Nhap tuoi: ");

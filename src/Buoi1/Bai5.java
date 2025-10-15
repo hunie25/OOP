@@ -6,7 +6,6 @@ public class Bai5 {
         for (int i = 1; i <= 10; i++){
             System.out.println("5 * " + i + " = " + (5*i));
         }
-
         int sum = 0;
         for (int i = 1; i <= 100; i++){
             if ( i % 2 == 0) {
